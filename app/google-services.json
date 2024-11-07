@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "703671138081",
+    "project_id": "acces-control-uadeo",
+    "storage_bucket": "acces-control-uadeo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703671138081:android:06e4dc1e9bffab3e0d7060",
+        "android_client_info": {
+          "package_name": "js.apps.accesscontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBifyvFGWqIQ3f20KHe38yRB4f1xBEWTYU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
